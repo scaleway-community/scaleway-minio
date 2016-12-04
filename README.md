@@ -6,7 +6,7 @@
 
 Launch your Ghost app on Scaleway servers in minutes.
 
-<img src="http://blogs-images.forbes.com/janakirammsv/files/2015/06/Minio_Org.jpg" width="400px" />
+<img src="https://pbs.twimg.com/profile_images/803659758657884160/hmgxzBl3.jpg" width="400px" />
 
 ---
 
